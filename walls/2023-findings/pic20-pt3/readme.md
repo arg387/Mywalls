@@ -1,5 +1,4 @@
 # pic20-pt3
-# Preview
 | Column 1 | Column 2 | Column 3 | Column 4 |
 |---------|---------|---------|---------|
 |![4th (17)](https://github.com/user-attachments/assets/02499874-832b-4199-998a-f30b6e083b71)|![4th (16)](https://github.com/user-attachments/assets/47312078-c007-45a4-b4bd-3d040c59e39e)|![4th (20)](https://github.com/user-attachments/assets/2085a3ba-16c3-442e-a95a-1bea5a349420)|![4th (19)](https://github.com/user-attachments/assets/5786ad6b-da9c-4b72-a59c-de711393e074)|
