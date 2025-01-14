@@ -1,5 +1,4 @@
 # pic31-pt1
-# Preview
 | Column 1 | Column 2 | Column 3 | Column 4 |
 |---------|---------|---------|---------|
 |![assassins_creed_iv_black_flag-wallpaper-2560x1440](https://github.com/user-attachments/assets/39fd3396-2dc9-4755-a1a8-70af2aa52aa9)|![call_of_duty__black_ops-wallpaper-2560x1440](https://github.com/user-attachments/assets/4492a178-9a28-4455-9bdb-d574d84516b6)|![battlefield_3_bf3_2-wallpaper-2560x1440](https://github.com/user-attachments/assets/daef46dc-af21-47ba-a569-22a421dcfded)|![windows-blue](https://github.com/user-attachments/assets/3aed6305-f691-4743-a79c-aba1e2d18215)|
